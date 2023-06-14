@@ -45,5 +45,5 @@ public class App {
         }
     }
 
-    final static String separte = "************************";
+    final static String separte = "**************************";
 }
